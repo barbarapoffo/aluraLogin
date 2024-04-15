@@ -1,0 +1,38 @@
+.conteiner-bottom {  
+  padding: 2.5em 2.5em 3em;
+  border-radius: 5px;
+  background-image: url("./src/assets/icons/background-default.svg");
+  background-repeat: no-repeat;
+  background-size: 110% 120%;
+  background-position: 50%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2rem;
+  width: 80%;
+}
+
+.conteiner-bottom h1 {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.conteiner-bottom h2 {
+  color: #fff;
+  font-size: 23px;
+  font-weight: 400;
+  margin: 0 0 1em;
+}
+
+.conteiner-bottom button {
+  border: transparent;
+  border-radius: 32px;
+  color: #167bf7;
+  text-transform: uppercase;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 1rem 3rem;
+  width: 17em;
+}
+
